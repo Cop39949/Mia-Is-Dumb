@@ -1,0 +1,6 @@
+def mia(print): 
+  for i in print:
+    stdout.write(i)
+    stdout.flush()
+    time.sleep(0.05)
+def mia(Hello)
